@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-ping",
+  "version": "1.0.0",
+  "description": "A simple asynchronous ping utility for NodeJS on Linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdarrengriffin/nodejs-ping.git"
+  },
+  "author": "Darren Griffin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdarrengriffin/nodejs-ping/issues"
+  },
+  "homepage": "https://github.com/mrdarrengriffin/nodejs-ping#readme"
+}

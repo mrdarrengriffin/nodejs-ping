@@ -1,6 +1,6 @@
 {
   "name": "nodejs-ping",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple asynchronous ping utility for NodeJS on Linux",
   "main": "index.js",
   "scripts": {
